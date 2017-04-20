@@ -1,0 +1,77 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: Museo;
+    src: url('assets/fonts/Museo-300.otf');
+}
+@font-face {
+    font-family: Brandon;
+    src: url('assets/fonts/Brandon--regular.woff');
+}
+@font-face {
+    font-family: proximanova;
+    src: url('assets/fonts/proximanova-reg.woff');
+}
+
+.bg_img
+{
+background-image: url('assets/img/property-background.png');
+}
+.padding0
+{
+    padding:0;
+}
+.font_proximanova
+{
+    font-family: proximanova;
+}
+.font_Brandon
+{
+    font-family: Brandon;
+}
+.font_Museo
+{
+    font-family: museo;
+}
+.font800
+{
+    font-weight: 800;
+}
+.clear
+{
+    clear: both;
+}
+.pl0
+{
+    padding-left: 0;
+}
+.pr0
+{
+    padding-right: 0;
+}
+a:hover{
+    text-decoration: none;
+}
+.img100
+{
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6
+{
+    margin: 0;
+}
+.little_gap
+{
+    margin-top: 10px;
+}
+.large_gap
+{
+    margin-top: 30px;
+}
+p, a , span, button
+{
+    font-family: proximanova
+}
+p
+{
+    color: #222;
+}

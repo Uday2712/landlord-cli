@@ -1,0 +1,158 @@
+.icons_commmen_div
+{
+border: 1px solid #ddd;
+padding: 10px;  
+}
+.social_icon i
+{
+background-color: #0257b1;
+color: #fff;
+padding: 9px;
+width: 30px;
+height: 30px;
+transition: 0.3s;
+cursor: pointer;
+}
+.social_icon i:hover
+{
+    border-radius: 50%;
+}
+.articles_next_btn_div button
+{
+    border: 1px solid #55acee;
+background-color: #55acee;
+padding: 8px 26px;
+color: #fff;
+}
+
+.icons_commmen_div .col-md-6:nth-child(2) p
+{
+    margin-top: 4px;
+margin-bottom: 0;
+cursor: pointer
+}
+.artilce_content
+{
+    border: 1px solid #ddd;
+padding: 32px;
+border-top: 0;
+}
+.add_comment textarea
+{
+width: 100%;
+height: 100px;
+border: 1px solid #ddd;
+padding: 4px 7px;
+}
+.add_comment button
+{
+border: 1px solid #2273c9;
+background-color: #2273c9;
+color: #fff;
+padding: 4px 24px;
+margin-top: 6px; 
+transition: 0.4s;
+}
+.disabled_btn
+{
+opacity: 0.5;
+pointer-events: none;
+}
+.single_comments_div .User_name
+{
+font-size: 14px;
+color: #0257b1;
+font-weight: 800;
+margin-bottom: 2px;
+margin-top: -3px;
+} 
+.single_comments_div .user_comment
+{
+margin-bottom: 7px;
+color: #4a4a4a;
+}
+.comment_time
+{
+    color: #7a7a7a;
+}
+.comments_div
+{
+    border: 1px solid #ddd;
+border-top: 0;
+padding: 24px 32px;
+padding-bottom: 0;
+}
+.load_Com_div p
+{
+border-top: 1px solid #ddd;
+margin-bottom: 0;
+padding: 10px 0;
+color: #0257b1;
+font-weight: 800;
+cursor: pointer;
+}
+.load_Com_div p i
+{
+font-weight: 800;
+font-size: 24px;
+vertical-align: -4px;
+}
+.article_author
+{
+    border: 1px solid #ddd;
+border-radius: 10px 10px 0 0;
+overflow: hidden;
+margin-bottom: 20px;
+}
+.auth_pro_deta
+{
+padding: 10px;
+}
+.auth_pro_deta h4
+{
+margin-top: 7px;
+font-size: 18px;
+}
+.auth_pro_deta .Author_Name
+{
+font-size: 16px;
+margin-top: 13px;
+margin-bottom: 3px;
+color: #0257b1;
+font-weight: 800;
+}
+.auth_pro_deta .Author_details
+{
+color: #7a7a7a;
+font-size: 14px;
+}
+.related_Articles
+{
+border: 1px solid #ddd;
+padding: 9px;
+}
+.related_Articles h3
+{
+padding: 24px 0px;
+font-size: 24px;
+border-bottom: 1px solid #ddd;
+}
+.related_Articles h4
+{
+font-size: 16px;
+margin-top: 40px;
+color: #777;  
+cursor: pointer
+}
+.related_Articles p
+{
+    color: #55acee;
+font-size: 20px;
+margin-top: 7px;
+cursor: pointer
+}
+.blog_title
+{
+    font-size: 34px;
+color: #2273c9;
+}
